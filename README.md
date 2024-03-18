@@ -1,2 +1,38 @@
-# DragonBallLegends
-A Complete decompile dump of the mobile game Dragon Ball Legends.
+
+![Logo](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/520b05ae-7108-4758-86d3-6641818a9c85/df65ukd-5d344800-96c4-4045-b66a-9937eeccc11c.png/v1/fill/w_1280,h_1698,q_80,strp/dragon_ball_legends_wallpaper_by_kate_yamazaki_df65ukd-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTY5OCIsInBhdGgiOiJcL2ZcLzUyMGIwNWFlLTcxMDgtNDc1OC04NmQzLTY2NDE4MThhOWM4NVwvZGY2NXVrZC01ZDM0NDgwMC05NmM0LTQwNDUtYjY2YS05OTM3ZWVjY2MxMWMucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.S-h4qNZ9eCEiqgQWjIVWpZBxkBba-SVrB1BELNBl7i8)
+
+
+# a complete decompilation of the game DB Legends 
+
+## Authors
+
+- [@mindsetpro](https://www.github.com/mindsetpro)
+
+
+## Features
+
+- ultra ink brush assets
+- character images
+- banner images
+- even unity assets such as:
+    - mesh
+    - animators (.fbx mostly)
+    - sprites and texture 2d
+    - mono behaviour
+    - these are coming soon only animators
+
+## Roadmap
+
+- [ ] api/docs website
+- [ ] all unity assets
+- [ ] other data such as json data or xml/yaml
+- [ ] a exe to view legends unity assets using dotnet
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## stats
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mindsetpro&repo=DragonBallLegends)](https://github.com/mindsetpro/DragonBallLegends)
