@@ -17,8 +17,6 @@
 | macOS    | <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" height="24px">          | Coming soon  |
 | CentOS   | <img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white" height="24px">      | Coming soon  |
 
-This should give you a Markdown table with the badges aligned and lower than before. Adjust the `height` attribute in the `<img>` tag as needed to fine-tune the badge size.
-
 # a complete decompilation of the game DB Legends 
 
 ## Authors
