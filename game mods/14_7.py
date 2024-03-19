@@ -63,4 +63,4 @@ if __name__ == "__main__":
 
     filename = sys.argv[1]
     edit_counts(filename)
-    print(Fore.GREEN + "[SUCCESS]: Counts edited successfully.")
+    print(Fore.GREEN + "[SUCCESS]: Stars and zenkai edited successfully.")
